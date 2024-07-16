@@ -1,0 +1,235 @@
+Country,Population 2024,World Share
+India,1428627663,17.76 %
+China,1425671352,17.72 %
+United States,339996563,4.23 %
+Indonesia,277534122,3.45 %
+Pakistan,240485658,2.99 %
+Nigeria,223804632,2.78 %
+Brazil,216422446,2.69 %
+Bangladesh,172954319,2.15 %
+Russia,144444359,1.80 %
+Mexico,128455567,1.60 %
+Ethiopia,126527060,1.57 %
+Japan,123294513,1.53 %
+Philippines,117337368,1.46 %
+Egypt,112716598,1.40 %
+DR Congo,102262808,1.27 %
+Vietnam,98858950,1.23 %
+Iran,89172767,1.11 %
+Turkey,85816199,1.07 %
+Germany,83294633,1.04 %
+Thailand,71801279,0.89 %
+United Kingdom,67736802,0.84 %
+Tanzania,67438106,0.84 %
+France,64756584,0.80 %
+South Africa,60414495,0.75 %
+Italy,58870762,0.73 %
+Kenya,55100586,0.68 %
+Myanmar,54577997,0.68 %
+Colombia,52085168,0.65 %
+South Korea,51784059,0.64 %
+Uganda,48582334,0.60 %
+Sudan,48109006,0.60 %
+Spain,47519628,0.59 %
+Argentina,45773884,0.57 %
+Algeria,45606480,0.57 %
+Iraq,45504560,0.57 %
+Afghanistan,42239854,0.53 %
+Poland,41026067,0.51 %
+Canada,38781291,0.48 %
+Morocco,37840044,0.47 %
+Saudi Arabia,36947025,0.46 %
+Ukraine,36744634,0.46 %
+Angola,36684202,0.46 %
+Uzbekistan,35163944,0.44 %
+Yemen,34449825,0.43 %
+Peru,34352719,0.43 %
+Malaysia,34308525,0.43 %
+Ghana,34121985,0.42 %
+Mozambique,33897354,0.42 %
+Nepal,30896590,0.38 %
+Madagascar,30325732,0.38 %
+Côte d'Ivoire,28873034,0.36 %
+Venezuela,28838499,0.36 %
+Cameroon,28647293,0.36 %
+Niger,27202843,0.34 %
+Australia,26439111,0.33 %
+North Korea,26160821,0.33 %
+Taiwan,23923276,0.30 %
+Mali,23293698,0.29 %
+Burkina Faso,23251485,0.29 %
+Syria,23227014,0.29 %
+Sri Lanka,21893579,0.27 %
+Malawi,20931751,0.26 %
+Zambia,20569737,0.26 %
+Romania,19892812,0.25 %
+Chile,19629590,0.24 %
+Kazakhstan,19606633,0.24 %
+Chad,18278568,0.23 %
+Ecuador,18190484,0.23 %
+Somalia,18143378,0.23 %
+Guatemala,18092026,0.22 %
+Senegal,17763163,0.22 %
+Netherlands,17618299,0.22 %
+Cambodia,16944826,0.21 %
+Zimbabwe,16665409,0.21 %
+Guinea,14190612,0.18 %
+Rwanda,14094683,0.18 %
+Benin,13712828,0.17 %
+Burundi,13238559,0.16 %
+Tunisia,12458223,0.15 %
+Bolivia,12388571,0.15 %
+Haiti,11724763,0.15 %
+Belgium,11686140,0.15 %
+Jordan,11337052,0.14 %
+Dominican Republic,11332972,0.14 %
+Cuba,11194449,0.14 %
+South Sudan,11088796,0.14 %
+Sweden,10612086,0.13 %
+Honduras,10593798,0.13 %
+Czech Republic (Czechia),10495295,0.13 %
+Azerbaijan,10412651,0.13 %
+Greece,10341277,0.13 %
+Papua New Guinea,10329931,0.13 %
+Portugal,10247605,0.13 %
+Hungary,10156239,0.13 %
+Tajikistan,10143543,0.13 %
+United Arab Emirates,9516871,0.12 %
+Belarus,9498238,0.12 %
+Israel,9174520,0.11 %
+Togo,9053799,0.11 %
+Austria,8958960,0.11 %
+Switzerland,8796669,0.11 %
+Sierra Leone,8791092,0.11 %
+Laos,7633779,0.09 %
+Hong Kong,7491609,0.09 %
+Serbia,7149077,0.09 %
+Nicaragua,7046310,0.09 %
+Libya,6888388,0.09 %
+Paraguay,6861524,0.09 %
+Kyrgyzstan,6735347,0.08 %
+Bulgaria,6687717,0.08 %
+Turkmenistan,6516100,0.08 %
+El Salvador,6364943,0.08 %
+Congo,6106869,0.08 %
+Singapore,6014723,0.07 %
+Denmark,5910913,0.07 %
+Slovakia,5795199,0.07 %
+Central African Republic,5742315,0.07 %
+Finland,5545475,0.07 %
+Norway,5474360,0.07 %
+Liberia,5418377,0.07 %
+State of Palestine,5371230,0.07 %
+Lebanon,5353930,0.07 %
+New Zealand,5228100,0.06 %
+Costa Rica,5212173,0.06 %
+Ireland,5056935,0.06 %
+Mauritania,4862989,0.06 %
+Oman,4644384,0.06 %
+Panama,4468087,0.06 %
+Kuwait,4310108,0.05 %
+Croatia,4008617,0.05 %
+Eritrea,3748901,0.05 %
+Georgia,3728282,0.05 %
+Mongolia,3447157,0.04 %
+Moldova,3435931,0.04 %
+Uruguay,3423108,0.04 %
+Puerto Rico,3260314,0.04 %
+Bosnia and Herzegovina,3210847,0.04 %
+Albania,2832439,0.04 %
+Jamaica,2825544,0.04 %
+Armenia,2777970,0.03 %
+Gambia,2773168,0.03 %
+Lithuania,2718352,0.03 %
+Qatar,2716391,0.03 %
+Botswana,2675352,0.03 %
+Namibia,2604172,0.03 %
+Gabon,2436566,0.03 %
+Lesotho,2330318,0.03 %
+Guinea-Bissau,2150842,0.03 %
+Slovenia,2119675,0.03 %
+North Macedonia,2085679,0.03 %
+Latvia,1830211,0.02 %
+Equatorial Guinea,1714671,0.02 %
+Trinidad and Tobago,1534937,0.02 %
+Bahrain,1485509,0.02 %
+Timor-Leste,1360596,0.02 %
+Estonia,1322765,0.02 %
+Mauritius,1300557,0.02 %
+Cyprus,1260138,0.02 %
+Eswatini,1210822,0.02 %
+Djibouti,1136455,0.01 %
+Réunion,981796,0.01 %
+Fiji,936375,0.01 %
+Comoros,852075,0.01 %
+Guyana,813834,0.01 %
+Bhutan,787424,0.01 %
+Solomon Islands,740424,0.01 %
+Macao,704149,0.01 %
+Luxembourg,654768,0.01 %
+Montenegro,626485,0.01 %
+Suriname,623236,0.01 %
+Cabo Verde,598682,0.01 %
+Western Sahara,587259,0.01 %
+Micronesia,544321,0.01 %
+Malta,535064,0.01 %
+Maldives,521021,0.01 %
+Brunei ,452524,0.01 %
+Bahamas,412623,0.01 %
+Belize,410825,0.01 %
+Guadeloupe,395839,0.00 %
+Iceland,375318,0.00 %
+Martinique,366981,0.00 %
+Mayotte,335995,0.00 %
+Vanuatu,334506,0.00 %
+French Guiana,312155,0.00 %
+French Polynesia,308872,0.00 %
+New Caledonia,292991,0.00 %
+Barbados,281995,0.00 %
+Sao Tome & Principe,231856,0.00 %
+Samoa,225681,0.00 %
+Curaçao,192077,0.00 %
+Saint Lucia,180251,0.00 %
+Guam,172952,0.00 %
+Kiribati,133515,0.00 %
+Grenada,126183,0.00 %
+Tonga,107773,0.00 %
+Seychelles,107660,0.00 %
+Aruba,106277,0.00 %
+St. Vincent & Grenadines,103698,0.00 %
+U.S. Virgin Islands,98750,0.00 %
+Antigua and Barbuda,94298,0.00 %
+Isle of Man,84710,0.00 %
+Andorra,80088,0.00 %
+Dominica,73040,0.00 %
+Cayman Islands,69310,0.00 %
+Bermuda,64069,0.00 %
+Greenland,56643,0.00 %
+Faeroe Islands,53270,0.00 %
+Northern Mariana Islands,49796,0.00 %
+Saint Kitts & Nevis,47755,0.00 %
+Turks and Caicos,46062,0.00 %
+Sint Maarten,44222,0.00 %
+American Samoa,43914,0.00 %
+Marshall Islands,41996,0.00 %
+Liechtenstein,39584,0.00 %
+Monaco,36297,0.00 %
+San Marino,33642,0.00 %
+Gibraltar,32688,0.00 %
+Saint Martin,32077,0.00 %
+British Virgin Islands,31538,0.00 %
+Caribbean Netherlands,27148,0.00 %
+Palau,18058,0.00 %
+Cook Islands,17044,0.00 %
+Anguilla,15899,0.00 %
+Nauru,12780,0.00 %
+Wallis & Futuna,11502,0.00 %
+Tuvalu,11396,0.00 %
+Saint Barthelemy,10994,0.00 %
+Saint Pierre & Miquelon,5840,0.00 %
+Saint Helena,5314,0.00 %
+Montserrat,4386,0.00 %
+Falkland Islands,3791,0.00 %
+Niue,1935,0.00 %
+Tokelau,1893,0.00 %
+Holy See,518,0.00 %
